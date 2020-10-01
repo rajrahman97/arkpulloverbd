@@ -1,0 +1,148 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+
+a:hover{
+  background-color: #065c6f;
+}
+
+.tab-bar{
+  background-color: #e0ece4;
+  margin: 0;
+  text-align: right;
+  padding-right: 10px;
+  padding-bottom: 0;
+  padding-top: 0;
+  margin-bottom: 0;
+
+
+}
+
+
+.parent-page{
+  background-color: #e0ece4;
+  position: relative;
+  padding-top: 10px;
+  margin-top: 0;
+
+}
+
+.welcome{
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 300%;
+  color: #065c6f;
+  margin-bottom: 0;
+
+}
+
+
+.tag-line{
+  margin-top: 0;
+  padding-bottom: 20px;
+  font-family: 'Sacramento', cursive;
+  font-size: 200%;
+  color: #87431d;
+}
+.sweater1{
+  padding-top: 90px;
+
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  color: #111d5e;
+  line-height: 2;
+}
+h2{
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 200%;
+  color: #01a9b4;
+}
+
+
+.info{
+  width: 50%;
+  margin: 60px auto 100px auto;
+
+}
+
+hr{
+  width: 70px;
+  border: dotted #be5683 6px;
+  border-bottom: none;
+  margin: 50px auto 50px auto;
+}
+
+.product-images{
+  height: 62.5rem;
+  width: auto;
+  position: relative;
+}
+
+.img1{
+  position: absolute;
+  height: 31.25rem;
+  width: 31.25rem;
+  left: 0;
+}
+.img2{
+  position: absolute;
+  height: 18.75rem;
+  width: 28.125rem;
+  left: 31.25rem;
+}
+.img3{
+  position: absolute;
+  height: 18.75rem;
+  width: 24.875rem;
+  left: 59.375rem;
+}
+.img4{
+  position: absolute;
+  height: 31.25rem;
+  width : 31.25rem;
+  left: 0;
+  top: 31.25rem;
+
+}
+.img5{
+  position: absolute;
+  left: 31.25rem;
+  top: 18.75rem;
+  width: 53rem;
+  height: 43.75rem;
+
+}
+
+.btn {
+  background-color: #44c767;
+  -webkit-border-top-left-radius: 8px;
+  -moz-border-radius-topleft: 8px;
+  border-top-left-radius: 8px;
+  -webkit-border-top-right-radius: 8px;
+  -moz-border-radius-topright: 8px;
+  border-top-right-radius: 8px;
+  -webkit-border-bottom-right-radius: 8px;
+  -moz-border-radius-bottomright: 8px;
+  border-bottom-right-radius: 8px;
+  -webkit-border-bottom-left-radius: 8px;
+  -moz-border-radius-bottomleft: 8px;
+  border-bottom-left-radius: 8px;
+  text-indent: 0;
+  border: 1px solid #11999e;
+  display: inline-block;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  height: 39px;
+  line-height: 39px;
+  width: 133px;
+  text-decoration: none;
+  text-align: center;
+  text-shadow: 1px 1px 0px #2f6627;
+  margin: 30px auto 60px auto;
+}
